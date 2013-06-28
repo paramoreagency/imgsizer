@@ -1,4 +1,4 @@
 imgsizer
 ========
 
-Fork of the discontinued addon from Devot-ee.com, ImgSizer
+Fork of the discontinued ExpressionEngine addon from Devot-ee.com, ImgSizer
